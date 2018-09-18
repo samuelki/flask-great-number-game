@@ -1,0 +1,24 @@
+.container{
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    width: 800px;
+}
+.feedback{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+.feedback h2{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
